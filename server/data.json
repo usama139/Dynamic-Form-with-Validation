@@ -1,0 +1,26 @@
+[
+  {
+    "username": "usama",
+    "password": "usama1234"
+  },
+  {
+    "username": "ali",
+    "password": "123456"
+  },
+  {
+    "username": "Adil",
+    "password": "Adil12345",
+    "email": "adil@gmail.com",
+    "contact": "0479829222",
+    "country": "Pakistan",
+    "dob": "2024-11-14"
+  },
+  {
+    "username": "Ali",
+    "password": "Usamaali12345",
+    "email": "usama@gmail.com",
+    "contact": "0345312345",
+    "country": "USA",
+    "dob": "2024-11-14"
+  }
+]
